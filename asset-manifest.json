@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.85bb6e2a.css",
+    "main.css": "/static/css/main.88b031e3.css",
     "main.js": "/static/js/main.15eefb6f.js",
     "static/js/787.5674d57f.chunk.js": "/static/js/787.5674d57f.chunk.js",
     "static/media/bigBackground.png": "/static/media/bigBackground.e0283fe0ce9dfc8abeb2.png",
+    "static/media/advertisement.png": "/static/media/advertisement.77303f3c2c5eef254259.png",
     "static/media/PT-Root-UI_Light.ttf": "/static/media/PT-Root-UI_Light.e09c57afd2d49fbc33fa.ttf",
     "static/media/PT-Root-UI_Medium.ttf": "/static/media/PT-Root-UI_Medium.0133b1f6b0cf2181d0ba.ttf",
     "static/media/PT-Root-UI_Bold.ttf": "/static/media/PT-Root-UI_Bold.2d36200aa6fb76063e2b.ttf",
     "static/media/PT-Root-UI_Regular.ttf": "/static/media/PT-Root-UI_Regular.c685fce3b2cd5296b24c.ttf",
     "static/media/fullRegular.png": "/static/media/fullRegular.5140deecd7603e5bf52b.png",
-    "static/media/advertisement.png": "/static/media/advertisement.bc3bbc8688069b38a4d0.png",
     "static/media/smallBackground.png": "/static/media/smallBackground.ab8525c225953b942758.png",
     "static/media/specProjectPreviewBackground.png": "/static/media/specProjectPreviewBackground.ea27462f7f0b43d24b24.png",
     "static/media/popularCard.png": "/static/media/popularCard.6413ac07eee3c2b91905.png",
@@ -39,12 +39,12 @@
     "static/media/projectsLeftArrow.svg": "/static/media/projectsLeftArrow.875d3eee000f1ebc9b15a2f27b6d2f32.svg",
     "static/media/goOrange.svg": "/static/media/goOrange.c30b6a16770cf7617bfc7004456d4673.svg",
     "static/media/rightArrow.svg": "/static/media/rightArrow.c4ff4d10b71b098ad77ef2750c7cb79e.svg",
-    "main.85bb6e2a.css.map": "/static/css/main.85bb6e2a.css.map",
+    "main.88b031e3.css.map": "/static/css/main.88b031e3.css.map",
     "main.15eefb6f.js.map": "/static/js/main.15eefb6f.js.map",
     "787.5674d57f.chunk.js.map": "/static/js/787.5674d57f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85bb6e2a.css",
+    "static/css/main.88b031e3.css",
     "static/js/main.15eefb6f.js"
   ]
 }
