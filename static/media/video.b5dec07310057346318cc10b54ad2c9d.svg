@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path-video">
+      <rect id="Прямоугольник_47" data-name="Прямоугольник 47" width="16" height="16" transform="translate(104 2278)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_19" data-name="Группа масок 19" transform="translate(-104 -2278)" opacity="0.5" clip-path="url(#clip-path-video)">
+    <path id="icons8-video_call" d="M4.6,4.5A2.609,2.609,0,0,0,2,7.1v6.8a2.609,2.609,0,0,0,2.6,2.6h6.8A2.609,2.609,0,0,0,14,13.9v-.54l3.091,1.855A.6.6,0,0,0,18,14.7V6.3a.6.6,0,0,0-.909-.515L14,7.64V7.1a2.609,2.609,0,0,0-2.6-2.6Zm0,1.2h6.8a1.391,1.391,0,0,1,1.4,1.4v6.8a1.391,1.391,0,0,1-1.4,1.4H4.6a1.391,1.391,0,0,1-1.4-1.4V7.1A1.391,1.391,0,0,1,4.6,5.7ZM16.8,7.36v6.28L14,11.96V9.04Z" transform="translate(102 2275.5)" fill="#fff"/>
+  </g>
+</svg>
