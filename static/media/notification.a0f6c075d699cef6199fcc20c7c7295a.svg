@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path-notification">
+      <rect id="Прямоугольник_9" data-name="Прямоугольник 9" width="24" height="24" transform="translate(1292 222)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="подписаться" transform="translate(-1292 -222)" clip-path="url(#clip-path-notification)">
+    <path id="icons8-notification" d="M14.325,2.472a9.389,9.389,0,0,0-8.786,9.454V16.4L3.908,19.681,3.9,19.7A2.181,2.181,0,0,0,5.847,22.77h5.23a3.692,3.692,0,0,0,7.385,0H23.69A2.182,2.182,0,0,0,25.64,19.7l-.008-.018L24,16.4V11.692A9.247,9.247,0,0,0,14.325,2.472Zm.087,1.844a7.369,7.369,0,0,1,7.743,7.376v4.923a.923.923,0,0,0,.1.411l1.719,3.459a.286.286,0,0,1-.279.438H5.847a.286.286,0,0,1-.278-.438h0l1.719-3.458a.923.923,0,0,0,.1-.411V11.927A7.535,7.535,0,0,1,14.411,4.316ZM12.923,22.77h3.692a1.846,1.846,0,1,1-3.692,0Z" transform="translate(1289.23 219.538)" fill="#fff"/>
+  </g>
+</svg>

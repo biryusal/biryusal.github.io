@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path-facebook">
+      <rect id="Прямоугольник_19" data-name="Прямоугольник 19" width="20" height="20" transform="translate(120 12)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_10" data-name="Группа масок 10" transform="translate(-120 -12)" clip-path="url(#clip-path-facebook)">
+    <path id="icons8-facebook_logo" d="M12,2A10,10,0,1,0,22,12,10.011,10.011,0,0,0,12,2Zm0,1.5a8.5,8.5,0,0,1,1.5,16.86V14.5h1.813a.5.5,0,0,0,.5-.438l.188-1.5A.5.5,0,0,0,15.5,12h-2V10.25a1,1,0,0,1,1-1h1a.5.5,0,0,0,.5-.5V7.063a.5.5,0,0,0-.455-.5c-.03,0-.735-.064-1.628-.064-2.2,0-3.417,1.308-3.417,3.684V12h-2a.5.5,0,0,0-.5.5V14a.5.5,0,0,0,.5.5h2v5.86A8.5,8.5,0,0,1,12,3.5Z" transform="translate(118 10)" fill="#fff"/>
+  </g>
+</svg>

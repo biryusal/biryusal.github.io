@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path-cl2ose">
+      <rect id="Прямоугольн123ик_82-rounded" data-name="Прямоугольни123к 82" width="24" height="24" transform="translate(318 222)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_21236" data-name="Группа масок 21236" transform="translate(-318 -222)" clip-path="url(#clip-path-cl2ose)">
+    <path id="icons8-xbox_menu-rounded" d="M14.4,2.4a12,12,0,1,0,12,12A12,12,0,0,0,14.4,2.4Zm0,1.8A10.2,10.2,0,1,1,4.2,14.4,10.211,10.211,0,0,1,14.4,4.2Z" transform="translate(315.6 219.6)" fill="#fff"/>
+    <rect id="Прямоугольник_112-rounded" data-name="Прямоугольник 123112" width="12" height="2" rx="1" transform="translate(326.464 229.05) rotate(45)" fill="#fff"/>
+    <rect id="Прямоугольник_113-rounded" data-name="Прямоугольн123ик 113" width="12" height="2" rx="1" transform="translate(325.05 237.535) rotate(-45)" fill="#fff"/>
+  </g>
+</svg>

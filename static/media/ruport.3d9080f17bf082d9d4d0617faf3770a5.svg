@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.843" height="20" viewBox="0 0 27.843 20">
+  <defs>
+    <clipPath id="clip-path-ruport">
+      <rect id="Прямоугольник_63" data-name="Прямоугольник 63" width="20" height="20" transform="translate(84 327)" fill="#fa6e03"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_147" data-name="Сгруппировать 147" transform="translate(-84 -327)">
+    <g id="Группа_масок_24" data-name="Группа масок 24" clip-path="url(#clip-path-ruport)">
+      <path id="icons8-megaphone" d="M19.642,4.015a2.209,2.209,0,0,0-.532.09L3.608,8.712A2.257,2.257,0,0,0,2,10.869v2.262a2.257,2.257,0,0,0,1.608,2.157l2.5.742a3.907,3.907,0,0,0,7.411,2.2L19.108,19.9A2.268,2.268,0,0,0,22,17.739V6.261a2.273,2.273,0,0,0-1.839-2.207A2.191,2.191,0,0,0,19.642,4.015Zm.079,1.494a.73.73,0,0,1,.779.752V17.739a.733.733,0,0,1-.964.719L4.036,13.85a.745.745,0,0,1-.536-.719V10.869a.745.745,0,0,1,.536-.719l15.5-4.608A.826.826,0,0,1,19.721,5.509ZM7.542,16.457l4.54,1.35a2.444,2.444,0,0,1-4.54-1.35Z" transform="translate(82 324.746)" fill="#fa6e03"/>
+    </g>
+    <path id="Контур_79" data-name="Контур 79" d="M106.005,333.041a5.031,5.031,0,0,1,0,6.514" transform="translate(1)" fill="none" stroke="#fa6e03" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Контур_80" data-name="Контур 80" d="M106.005,333.041s4.671,6.246,0,12.373" transform="translate(3 -3)" fill="none" stroke="#fa6e03" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

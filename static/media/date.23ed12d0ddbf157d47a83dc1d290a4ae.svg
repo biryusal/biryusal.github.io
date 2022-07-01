@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-path-date">
+      <rect id="Прямоугольник_58" data-name="Прямоугольник 58" width="15" height="15" transform="translate(20 349)" fill="#282c3b"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_27" data-name="Группа масок 27" transform="translate(-20 -349)" opacity="0.5" clip-path="url(#clip-path-date)">
+    <path id="icons8-calendar" d="M4.5.75v1.5H3.75a1.5,1.5,0,0,0-1.5,1.5v10.5a1.5,1.5,0,0,0,1.5,1.5h10.5a1.5,1.5,0,0,0,1.5-1.5V3.75a1.5,1.5,0,0,0-1.5-1.5H13.5V.75H12v1.5H6V.75Zm-.75,3h10.5v1.5H3.75Zm0,3h10.5v7.5H3.75Z" transform="translate(18.5 348.25)" fill="#282c3b"/>
+  </g>
+</svg>
